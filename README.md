@@ -10,6 +10,10 @@ This repository contains benchmark results comparing popular web browsers on PC.
 - Chrome Version: 139.0.7258.67
 - Opera GX Version: 120.0.5543.160 (Early Access), Chromium Version: 135.0.7049.115 (Since no extensions or additional plugins are installed, and only daily-use background features are running, any performance impact is expected to be minor. However, as this is a Beta version, some variability in performance is possible.)
 - Microsoft Edge Version: 139.0.3405.86
+- Mozilla Firefox Version: 141.0.3
+- Opera Version: 120.0.5543.161, Chromium Version: 135.0.7049.115
+- Brave Version: Brave 1.81.131, Chromium Version: 139.0.7258.66
+
 
 <img width="800" height="1200" alt="image" src="https://github.com/user-attachments/assets/4e1ef923-6969-4e18-b55d-81417f899e0f" />
 
