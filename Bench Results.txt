@@ -86,6 +86,90 @@ Second Run: 755.3ms (±0.9%)
 Third Run: 759.4ms (±0.5%)
 
 
+*******Mozilla Firefox*******
+Version: 141.0.3
+
+Speedometer 3.1: 
+
+First Run: 8.77 (± 0.46)
+Second Run: 11.1 (± 0.62)
+Third Run: 11.6 (± 0.59)
+
+JetStream 2:
+
+First Run: 121.207
+Second Run: 118.565
+Third Run: 118.286
+
+MotionMark 1.3.1: (on a medium screen (laptop, tablet))
+
+First Run: 717.03 @ 60fps (±8.96%)
+Second Run: 707.12 @ 60fps (±4.36%)
+Third Run: 517.62 @ 60fps (±5.59%)
+
+Kraken 1.1: Total
+
+First Run: 1214.5ms (±1.4%)
+Second Run: 1197.7ms (±0.8%)
+Third Run: 1202.8ms (±1.4%)
+
+
+*******Opera*******
+Version: 120.0.5543.161 
+Chromium Version: 135.0.7049.115
+
+Speedometer 3.1: 
+
+First Run: 13.3 (± 0.68)
+Second Run: 13.2 (± 0.45)
+Third Run: 12.6 (± 0.66)
+
+JetStream 2:
+
+First Run: 164.476
+Second Run: 165.039
+Third Run: 164.761
+
+MotionMark 1.3.1: (on a medium screen (laptop, tablet))
+
+First Run: 656.56 @ 60fps (±2.97%)
+Second Run: 624.32 @ 60fps (±8.10%)
+Third Run: 640.74 @ 60fps (±4.98%)
+
+Kraken 1.1: Total
+
+First Run: 809.2ms (±1.5%)
+Second Run: 809.1ms (±0.7%)
+Third Run: 798.9ms (±0.6%)
+
+
+*******Brave*******
+Version: Brave 1.81.131
+Chromium: 139.0.7258.66
+
+Speedometer 3.1: 
+
+First Run: 13.8 ± 0.77
+Second Run: 13.5 ± 0.71
+Third Run: 13.2 ± 0.68
+
+JetStream 2:
+
+First Run: 179.680
+Second Run: 179.945
+Third Run: 184.289
+
+MotionMark 1.3.1: (on a medium screen (laptop, tablet))
+
+First Run: 1071.32 @ 60fps ±2.82%
+Second Run: 1059.87 @ 60fps ±2.48%
+Third Run: 1066.88 @ 60fps ±2.67%
+
+Kraken 1.1: Total
+
+First Run: 760.0ms ±1.0%
+Second Run: 759.1ms ±0.7%
+Third Run: 767.8ms ±1.4%
 
 
 
